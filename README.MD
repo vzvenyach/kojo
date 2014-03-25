@@ -4,9 +4,9 @@ On March 24, 2014, a group of DC Open Government folks went on the Kojo Nnamdi s
 
 # Usage
 
-1. Clone the repository
+1. Clone the repository (`git clone https://github.com/vzvenyach/kojo.git`)
 
-2. Create an .env file from the .env.example
+2. Create and modify an .env file from the .env.example
 
 3. Set up a crontab -e line, mine is as follows:
 
